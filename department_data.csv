@@ -1,0 +1,26 @@
+﻿Indent Level,Department/Item Name ,Parent,Weight
+0,All items,,100
+1,Social and Organizational Informatics,All items,25
+1,Privacy and Security,All items,25
+1,Human-Computer Ineraction ,All items,25
+1,Data Sciecen and Artfical Intelligence ,All items,25
+2,Jonathan Dodge,Data Sciecen and Artfical Intelligence ,32
+2,Lee Giles ,Data Sciecen and Artfical Intelligence ,771
+2,Vasant Honavar,Data Sciecen and Artfical Intelligence ,594
+2,Lu Lin,Data Sciecen and Artfical Intelligence ,6
+2,Amulya Yadav,Data Sciecen and Artfical Intelligence ,91
+2,Sayeed Billah,Human-Computer Ineraction ,30
+2,Saeed Abdullah,Human-Computer Ineraction ,75
+2,Steven Haynes,Human-Computer Ineraction ,60
+2,Yubo Kou,Human-Computer Ineraction ,64
+2,Sarah Stager,Human-Computer Ineraction ,3
+2,Jinghui Chen,Privacy and Security,33
+2,Nicklaus A. Giacobe,Privacy and Security,32
+2,Peng Liu,Privacy and Security,673
+2,Hong Hu,Privacy and Security,28
+2,Dongwong Lee,Privacy and Security,328
+2,Priya Kumar,Social and Organizational Informatics,45
+2,Kelley Cotter,Social and Organizational Informatics,22
+2,Fred Fonseca,Social and Organizational Informatics,22
+2,Carleen Maitland,Social and Organizational Informatics,169
+2,Cindy Lin,Social and Organizational Informatics,16
